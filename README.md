@@ -1,5 +1,5 @@
 
-update check-1
+update check-2
 
 dropwizard-helloworld
 =====================
