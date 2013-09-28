@@ -1,3 +1,6 @@
+
+update check-1
+
 dropwizard-helloworld
 =====================
 
