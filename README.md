@@ -1,6 +1,8 @@
 
 update check-2
 
+checking log
+
 dropwizard-helloworld
 =====================
 
